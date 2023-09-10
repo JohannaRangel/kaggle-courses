@@ -13,5 +13,5 @@ This repository offers a carefully curated selection of courses.  Ignite your pa
 ## ***Python*** 
 1. Hello, Python - A quick introduction to Python syntax, variable assignment, and numbers 
 [1. exercise-syntax-variables-and-numbers.ipynb](Python/ 1. exercise-syntax-variables-and-numbers.ipynb)
-[1. exercise-syntax-variables-and-numbers.ipynb](docs/CONTRIBUTING.md)
+[1. exercise-syntax-variables-and-numbers.ipynb](Python/1.exercise-syntax-variables-and-numbers.ipynb)
 
