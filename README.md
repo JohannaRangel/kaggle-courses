@@ -7,11 +7,9 @@ This repository offers a carefully curated selection of courses.  Ignite your pa
 
 <!--Thanks, https://www.kaggle.com/-->
 
-> “Great things come from hard work and perseverance. No excuses.”  — Kobe Bryant
+> “Great things come from hard work and perseverance. No excuses.”  — Kobe Bryan
+<br />
 
-
-## ***Python*** 
-1. Hello, Python - A quick introduction to Python syntax, variable assignment, and numbers 
-[1. exercise-syntax-variables-and-numbers.ipynb](Python/ 1. exercise-syntax-variables-and-numbers.ipynb)
-[1. exercise-syntax-variables-and-numbers.ipynb](Python/1.exercise-syntax-variables-and-numbers.ipynb)
-
+Python 
+------------- 
+1. [Hello, Python](Python/1.exercise-syntax-variables-and-numbers.ipynb) - A quick introduction to Python syntax, variable assignment, and numbers
