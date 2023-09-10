@@ -6,3 +6,6 @@ This repository offers a carefully curated selection of courses.  Ignite your pa
 **Let's dive in!**
 
 Thanks, https://www.kaggle.com/
+
+![Quotefancy-1710548-3840x21602](https://github.com/JohannaRangel/kaggle-courses/assets/33591776/7e50719d-a418-4053-9cb2-be95b4c662b2)
+
