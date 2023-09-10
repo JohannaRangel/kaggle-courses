@@ -8,3 +8,7 @@ This repository offers a carefully curated selection of courses.  Ignite your pa
 <!--Thanks, https://www.kaggle.com/-->
 
 > “Great things come from hard work and perseverance. No excuses.”  — Kobe Bryant
+
+
+## ***(Python)*** [Contribution guidelines for this project](docs/CONTRIBUTING.md)
+Hello, Python - A quick introduction to Python syntax, variable assignment, and numbers
