@@ -13,4 +13,4 @@ Python
 1. [Hello, Python](Python/1.exercise-syntax-variables-and-numbers.ipynb) - A quick introduction to Python syntax, variable assignment, and numbers
 2. [Functions and Getting Help](Python/2.exercise-functions-and-getting-help.ipynb) - Calling functions and defining our own, and using Python's builtin documentation
 3. [Booleans and Conditionals](Python/3.exercise-booleans-and-conditionals.ipynb) - Using booleans for branching logic
-4. [Lists](Python/4.exercise-lists) - Lists and the things you can do with them. Includes indexing, slicing and mutating
+4. [Lists](Python/4.exercise-lists.ipynb) - Lists and the things you can do with them. Includes indexing, slicing and mutating
