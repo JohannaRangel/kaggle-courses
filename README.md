@@ -15,3 +15,4 @@ Python
 3. [Booleans and Conditionals](Python/3.exercise-booleans-and-conditionals.ipynb) - Using booleans for branching logic
 4. [Lists](Python/4.exercise-lists.ipynb) - Lists and the things you can do with them. Includes indexing, slicing and mutating
 5. [Loops and List Comprehensions](Python/4.exercise-lists.ipynb) - For and while loops, and a much-loved Python feature: list comprehensions
+6. [Strings and Dictionaries](Python/4.exercise-lists.ipynb) - Working with strings and dictionaries, two fundamental Python data types
