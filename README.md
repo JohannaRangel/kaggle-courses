@@ -1,11 +1,9 @@
 # kaggle-courses
->*“Great things come from hard work and perseverance. No excuses.”*  — Kobe Bryan
+>*“Great things come from hard work and perseverance. No excuses.”* - Kobe Bryan<br />
 <br />
-Are you ready to embark on your Data Science journey? You're in the right place. 
+Are you ready to embark on your Data Science journey? You're in the right place. This repository offers a carefully curated selection of courses. Ignite your passion for Data Science. Explore, learn and to becoming a proficient Data Scientist. If you find this repository useful, support it by making "★ Star". Thank you! <br />
 
-This repository offers a carefully curated selection of courses.  Ignite your passion for Data Science. Explore, learn and to becoming a proficient Data Scientist.
-**Let's dive in!!!**
-<!--Thanks, https://www.kaggle.com/-->
+**``` Let's dive in!!! ```**<br />
 <br />
 
 Python 
