@@ -24,4 +24,4 @@ Intro to SQL
 3. [Group By, Having & Count](IntroToSQL/3.exercise-group-by-having-count.ipynb) - Get more interesting insights directly from your SQL queries
 4. [Order By](IntroToSQL/4.exercise-order-by.ipynb) - Order your results to focus on the most important data for your use case
 5. [As & With](IntroToSQL/5.exercise-as-with.ipynb) - Organize your query for better readability. This becomes especially important for complex queries
-6. [Joining Data](/1.exercise-syntax-variables-and-numbers.ipynb) - Combine data sources. Critical for almost all real-world data problems
+6. [Joining Data](IntroToSQL/6.exercise-joining-data.ipynb) - Combine data sources. Critical for almost all real-world data problems
