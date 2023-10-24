@@ -28,7 +28,7 @@ Intro to SQL
 
 Advanced SQL
 ------------- 
-1. [JOINs and UNIONs](IntroToSQL/1.exercise-joins-and-unions.ipynb) - Combine information from multiple tables
+1. [JOINs and UNIONs](IntroToSQL/AdvancedSQL/1.exercise-joins-and-unions.ipynb) - Combine information from multiple tables
 2. [Select, From & Where](IntroToSQL/2.exercise-select-from-where.ipynb) - The foundational compontents for all SQL queries
 3. [Group By, Having & Count](IntroToSQL/3.exercise-group-by-having-count.ipynb) - Get more interesting insights directly from your SQL queries
 4. [Order By](IntroToSQL/4.exercise-order-by.ipynb) - Order your results to focus on the most important data for your use case
